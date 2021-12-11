@@ -45,7 +45,7 @@ if(menuX > gui_width+150)&& (menu_chosen != -1)
 {
 	switch(menu_chosen)
 	{
-		case 3: ControlScript(Control_mode.NEXT); break;
+		case 3: room_goto(Level1); break;
 		case 2: 
 		{
 			if(!file_exists(SAVEfile))

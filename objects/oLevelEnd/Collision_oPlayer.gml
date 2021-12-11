@@ -5,8 +5,8 @@ with(oPlayer)
 	if (hasControl)
 	{
 		hasControl= false;
-		ControlScript(Control_mode.NEXT);
-		//ControlScript(Control_mode.GOTO,);
+		//ControlScript(Control_mode.NEXT);
+		room_goto_next();
 
 	}
 	
