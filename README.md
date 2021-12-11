@@ -5,7 +5,7 @@ Game Theme/Style:
 Each level has a unique style, but they are connected in some sense. For example, level one has a theme of the spring/summer season. So, the background is daytime, and the platform is green. Level two theme is like the fall season, where everything is orange, and the background is the sunset scene. Finally, level three, where the final battle occurs, has the same harsh winter theme and night background.
 
 Game Mechanics:
--	The composed of three levels. 
+-	The game composed of three levels. 
 -	The player starts from level one with three lives. 
 -	The player can shoot the beasts using the spacebar.
 -	 A successful shooting at the beasts increases the score and kills the beats.
